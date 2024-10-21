@@ -1,0 +1,3 @@
+[submodule "submodules/picotls"]
+	path = submodules/picotls
+	url = https://github.com/h2o/picotls.git
